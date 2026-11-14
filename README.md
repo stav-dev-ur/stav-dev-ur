@@ -1,14 +1,11 @@
-## Hi there 👋
+### Hi there, I'm stan-dev 👋
 
-<!--
-**stav-dev-ur/stav-dev-ur** is a ✨ _special_ ✨ repository
+I'm a **Junior Software Developer** focused on backend development with **Java** and **Go**. I enjoy writing clean, reliable code and leveraging **AI as an everyday tool** to learn faster, solve problems, and boost productivity. 
 
-Here is about me:
+In the future, I'm looking to join a **supportive, collaborative team** where I can grow as an engineer and contribute to meaningful projects.
 
-- 🔭 I’m currently working on Java and Go...
-- 🌱 I’m currently learning japanese...
-- 👯 I’m looking to collaborate with nice team in futere...
-- 📫 How to reach me: send me a mail, the gmail is in my bio...
-- speaking: Russian, Bulgerian and English
-- ⚡ Fun fact: i don't find AI as something that can replace human but i see it as nice tool for our work...
--->
+- 💻 **Tech Stack:** Java, Go, Git
+- 🤖 **Workflow:** Embracing AI tools as a daily coding assistant
+- 🌍 **Languages:** Bulgarian, Russian, English
+- 🤝 **Goal:** Looking to connect and grow with a great engineering team
+- 📫 **Reach me:** [todorovstanislav63@gmail.com](mailto:todorovstanislav63@gmail.com)
